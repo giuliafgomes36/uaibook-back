@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Java! Do zero o desespero",
+    "year": "2017",
+    "publisher": "Sun",
+    "isbn": "1811131718",
+    "authors": "James Gosling",
+    "amount": 3,
+    "categories": [
+      "Aventura",
+      "Mistério"
+    ]
+  },
+  {
+    "name": "PHP! Da geriatria para o mundo",
+    "year": "2018",
+    "publisher": "Old Lang",
+    "isbn": "00152578",
+    "authors": "Rasmus Lerdorf",
+    "amount": 7,
+    "categories": [
+      "Aventura",
+      "Romance",
+      "Ação"
+    ]
+  },
+  {
+    "name": "Python & Pandas! Para zoólogos programadores",
+    "year": "2023",
+    "publisher": "Natura",
+    "isbn": "00152578",
+    "authors": "Guido van Rossum",
+    "amount": 12,
+    "categories": [
+      "Aventura",
+      "Sci-fi",
+      "Ação",
+      "Adulto",
+      "Mangá"
+    ]
+  }
+]
